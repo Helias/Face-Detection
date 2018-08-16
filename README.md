@@ -50,4 +50,4 @@ Well, now you can just run the project with jupyter-notebook and see the distanc
 
 ### Example
 
-[Here]("docs/Face Detection.pdf") you can get the output of the project.
+[Here](https://github.com/Helias/Face-Detection/blob/master/docs/Face%20Detection.pdf) you can get the output of the project.
