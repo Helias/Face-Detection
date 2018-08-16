@@ -37,6 +37,7 @@ Remember that install dlib on python3 will take a lot of time, CPU and RAM.
 Moreover, this project needs the dlib face recognition models and the shape face predictors, so here the download link:
 
 [dlib_face_recognition_resnet_model_v1.dat.bz2](https://github.com/davisking/dlib-models/raw/master/dlib_face_recognition_resnet_model_v1.dat.bz2)
+
 [shape_predictor_68_face_landmarks.dat](https://github.com/AKSHAYUBHAT/TensorFace/raw/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat)
 
 (put them in the main directory of the project).
